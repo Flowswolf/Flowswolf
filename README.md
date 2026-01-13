@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jeremy Ernest</h1>
-<h3 align="center">Computer Science Student | Aspiring Full-Stack Developer</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=flowswolf&label=Profile%20views&color=0e75b6&style=flat" alt="flowswolf" />
-</p>
+<h3 align="center">Computer Science Student</h3>
 
 ---
 
