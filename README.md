@@ -1,3 +1,5 @@
+![Flowswolf](banner/github-header-banner.png)
+
 <h1 align="center">Hi 👋, I'm Jeremy Ernest</h1>
 <h3 align="center">Computer Science Student</h3>
 
