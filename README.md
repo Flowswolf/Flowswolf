@@ -39,8 +39,6 @@
   <img src="https://skillicons.dev/icons?i=laravel" />
 </p>
 
-*(Planning to start Laravel soon!)*  
-
 ---
 
 ## 📫 Connect with Me  
